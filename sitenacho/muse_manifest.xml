@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://sitenacho.azurewebsites.net" resolutions="1x" timestamp="1489797841852">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4107878623" ref="index"/>
+    <file name="iefonts_index.css" crc="3785863362" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="4091251153" ref="index"/>
+    <file name="form_process.php" crc="444353918" ref="index"/>
+    <file name="form-u1008.php" crc="4049895353" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-149988.jpg" crc="319526898" ref="index"/>
+    <file name="u105-6.png" crc="3788094712" ref="index"/>
+    <file name="pexels-photo.jpg" crc="359743016" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pexels-photo-110854.jpg" crc="3817126295" ref="index"/>
+    <file name="board.png" crc="4237341609" seo="true" ref="index"/>
+    <file name="laptop.png" crc="487981340" seo="true" ref="index"/>
+    <file name="configuration.png" crc="290404795" seo="true" ref="index"/>
+    <file name="mobile-phone.png" crc="428705171" seo="true" ref="index"/>
+    <file name="horsehead-nebula-11081_1280.jpg" crc="339175005" ref="index"/>
+    <file name="facebook-logo-button.png" crc="4207064011" seo="true" ref="index"/>
+    <file name="twitter-logo-button.png" crc="246413093" seo="true" ref="index"/>
+    <file name="instagram-logo.png" crc="200809131" seo="true" ref="index"/>
+    <file name="linkedin-logo-button.png" crc="3830507162" seo="true" ref="index"/>
+    <file name="google-plus-logo-button.png" crc="312682190" seo="true" ref="index"/>
+    <file name="download.png" crc="282080022" ref="index"/>
+    <file name="download (2).png" crc="4256463810" ref="index"/>
+    <file name="foto nacho 3 - copia.jpg" crc="230884344" seo="true" ref="index"/>
+    <file name="foto nacho 1 - copia.jpg" crc="293815155" seo="true" ref="index"/>
+    <file name="foto nacho 2.jpg" crc="516945527" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u134-17.png" crc="4169351727" ref="index"/>
+  </folder>
+  <file name="index.html" crc="77334445" seo="true" mt="1489797651112" redirect="true"/>
+</manifest>
